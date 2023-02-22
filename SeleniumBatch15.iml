@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Syntax/Selenium/selinium installation files/libs/byte-buddy-1.8.15.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Syntax/Selenium/selinium installation files/libs/commons-exec-1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Syntax/Selenium/selinium installation files/libs/guava-25.0-jre.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Syntax/Selenium/selinium installation files/libs/okhttp-3.11.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Syntax/Selenium/selinium installation files/libs/okio-1.14.0.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Syntax/Selenium/selinium installation files/client-combined-3.141.59.jar!/" />
+          <root url="file://$MODULE_DIR$/../.." />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/Syntax/Selenium/selinium installation files/client-combined-3.141.59-sources.jar!/" />
+          <root url="file://$MODULE_DIR$/../../Athira/GroupXX10/src/test/java" />
+          <root url="file://$MODULE_DIR$/../APIReviewB14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../GroupXX/src/test/java" />
+          <root url="file://$MODULE_DIR$/src" />
+          <root url="file://$MODULE_DIR$/../groupX/src" />
+          <root url="file://$MODULE_DIR$/../lanaLoopsTest/src" />
+          <root url="file://$MODULE_DIR$/../seleniumEBS/src" />
+          <root url="file://$MODULE_DIR$/../test12/src" />
+          <root url="file://$MODULE_DIR$/../test/src/main/java" />
+          <root url="file://$MODULE_DIR$/../tt/src" />
+          <root url="file://$MODULE_DIR$/../../TeamLEad/GroupXX10/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../alim/googleSearch/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../b14test/CucumberBatch14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../cb14/CucumberBatch14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../ccb14/CucumberBatch14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../cucumberb14s/CucumberBatch14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../dave/OnlineAssessment/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/CUCUMBER14CLONE/GitProjectPracticeB14/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/CucumberBatch13-master/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/GitProjectX1/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/JavaBasicsB13-main/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/NewSolarSystemB14/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/ProjectBatch14/GitProjectPracticeB14/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/SeleniumBatch14Test/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/SolarSystemB14/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/TOM/XsolarSystemBatch14/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/abc/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/cb14/cucumberFrameWorkReview/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/cucmberB13/CucumberBatch13/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/cucumberBatch14/CucumberBatch14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/gitPracticeBatch14/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/gitProject2/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/gitProject/GitProjectPracticeB14/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/gittest/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/hghg/Hudlassesment/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/javaB13Basic/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/javaP/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/jenkinsAZ/JenikinsFramework/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/jenkinsjava/JenkinsJavaProjectB13/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/projectTest/BugHunter/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/restAssuredReviewB13/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/restAssuredReview/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/smith/SolarSystemBatch14/src" />
+          <root url="file://$MODULE_DIR$/../../desktop/testNGB14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/testNGFrameWorkReviewB13/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/testNGPractice/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/testngBasicReview/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/testngb12/testNGFrameWORKrEVIEWbATCH12/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/testngbasicbatch13/TestNgBasicBatch13/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/tijana-20221119T021256Z-001/tijana/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../desktop/tijinaProject/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../elia/myWorkProject-main/myWorkProject-main/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../group4/Group4B14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../groupEU/GroupEUB14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../jenkins/JenikinsFramework/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../practice/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../restassured/CucumberFrameworkBatch10/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../syntax/sebbatch13/SeleniumBasics13-main/src" />
+          <root url="file://$MODULE_DIR$/../../syntax/testNgb11/TestNgBasicsBatch11/src" />
+          <root url="file://$MODULE_DIR$/../../syntax/testNgb12/TestNGBasicsBatch12/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../syntax/testingFW/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../syntax/testngb13/TestNgBasicBatch13/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../tijana final/tijana/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../tijana/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../tjna/tijana (1)-20221121T225853Z-001/CucumberReviewBatch14/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../tjna/tijana (1)-20221121T225853Z-001/GitProject1/src" />
+          <root url="file://$MODULE_DIR$/../../tjna/tijana (1)-20221121T225853Z-001/aliTest/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../tjna/tijana (1)-20221121T225853Z-001/test/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../tymur/GroupXX10/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
