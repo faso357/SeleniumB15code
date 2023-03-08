@@ -37,6 +37,9 @@ public class MultiDropDown {
 
         sel.deselectByVisibleText("Ohio");
 
-//        8:40
+        System.out.println("The drop Down is multiple " + sel.isMultiple());
+
+
+
     }
 }
