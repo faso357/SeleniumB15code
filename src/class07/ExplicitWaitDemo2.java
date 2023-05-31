@@ -3,15 +3,14 @@ package class07;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class ExplicitWaitDemo2 {
     public static void main(String[] args) {
         //        tell your project where the webdriver is located.
-//        for mac user please do not use .exe with chromedriver
-        System.setProperty("webdriver.chrome.driver", "Driver/chromedriver.exe");
+//        for Mac user please do not use .exe with chromedriver
+        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver");
 
         //        create an instance of WebDriver
         WebDriver driver = new ChromeDriver();

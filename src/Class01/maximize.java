@@ -7,7 +7,7 @@ public class maximize {
 
     public static void main(String[] args) {
 //        connect to the webdriver
-        System.setProperty("webdriver.chrome.driver","Driver/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver");
 //        create an instance of WebDriver
         WebDriver driver= new ChromeDriver();
 

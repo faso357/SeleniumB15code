@@ -7,8 +7,8 @@ public class Navigate {
     public static void main(String[] args) throws InterruptedException {
 
 //        connect to webDriver
-        System.setProperty("webdriver.chrome.driver","Driver/chromedriver.exe");
-//        initate the instance of Webdriver
+        System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver");
+//        initiate the instance of Web driver
         WebDriver driver= new ChromeDriver();
 //        open google .com
         driver.get("https://google.com");
